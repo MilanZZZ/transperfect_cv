@@ -1,0 +1,56 @@
+{
+  "about": {
+    "title": "O meni",
+    "date": "",
+    "chunkTitle": "",
+    "chunkSubtitle": "",
+    "chunkText":"Inženjer sa višegodišnjim radnim iskustvom u različitim oblastima i projektima. Društven, orijentisan na timski rad, željan učenja i usavršavanja.",
+    "chunkLink": "",
+    "locationText": ""
+  },
+  "contacts": {
+      "title": "Kontakti",
+      "date": "Beograd, Srbija",
+      "chunkTitle": "mil.zivkovic96@gmail.com",
+      "chunkSubtitle": "",
+      "chunkText":"(+381)60 5722-021",
+      "chunkLink": "https://milanweb.dev",
+      "locationText": ""
+    },
+    "educationMas": {
+      "title": "Obrazovanje",
+      "date": "2020-2023",
+      "chunkTitle": "M.Sc. - MiT modul (Mašinsko inženjerstvo i informacione tehnologije)",
+      "chunkSubtitle": "Univerzitet u Beogradu - Mašinski fakultet",
+      "chunkText":"",
+      "chunkLink": "https://www.mas.bg.ac.rs",
+      "locationText": "Beograd"
+    },
+    "educationBS": {
+      "title": "",
+      "date": "2020-2023",
+      "chunkTitle": "B.Sc. - Mašinsko inženjerstvo",
+      "chunkSubtitle": "Univerzitet u Beogradu - Mašinski fakultet",
+      "chunkText":"",
+      "chunkLink": "https://www.mas.bg.ac.rs",
+      "locationText": "Beograd"
+    },
+    "employment": {
+      "title": "",
+      "date": "",
+      "chunkTitle": "",
+      "chunkSubtitle": "",
+      "chunkText":"",
+      "chunkLink": "",
+      "locationText":""
+    },
+    "projects":{
+         "title":"",
+         "date":"",
+         "chunkTitle":"",
+         "chunkSubtitle":"",
+         "chunkText":"",
+         "chunkLink":"",
+         "locationText":""
+       }
+}

@@ -1,0 +1,32 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" fill="#F5F5F5"/>
+<g id="Milan Zivkovic CV" clip-path="url(#clip0_302_314)">
+<rect width="595" height="2666" transform="translate(-348 -148)" fill="#F8F8F8"/>
+<g id="Frame 40">
+<g id="Group 36">
+<g id="Contacts" clip-path="url(#clip1_302_314)">
+<g id="Email" clip-path="url(#clip2_302_314)">
+<g id="Icons1/Email" opacity="0.2">
+<g id="Icons1/Email_2">
+<g id="Icon">
+<path id="Icon Shape" fill-rule="evenodd" clip-rule="evenodd" d="M12.6668 2.66675H3.3335C2.22893 2.66675 1.3335 3.56218 1.3335 4.66675V11.3334C1.3335 12.438 2.22893 13.3334 3.3335 13.3334H12.6668C13.7714 13.3334 14.6668 12.438 14.6668 11.3334V4.66675C14.6668 3.56218 13.7714 2.66675 12.6668 2.66675ZM12.3935 4.00008L8.4735 7.92008C8.34832 8.04628 8.17792 8.11728 8.00016 8.11728C7.82241 8.11728 7.65201 8.04628 7.52683 7.92008L3.60683 4.00008H12.3935ZM12.6668 12.0001C13.035 12.0001 13.3335 11.7016 13.3335 11.3334V4.94008L9.41349 8.86008C8.63265 9.63995 7.36767 9.63995 6.58683 8.86008L2.66683 4.94008V11.3334C2.66683 11.7016 2.9653 12.0001 3.33349 12.0001H12.6668Z" fill="#212121"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_302_314">
+<rect width="595" height="2666" fill="white" transform="translate(-348 -148)"/>
+</clipPath>
+<clipPath id="clip1_302_314">
+<rect width="205" height="118" fill="white" transform="translate(0 -52)"/>
+</clipPath>
+<clipPath id="clip2_302_314">
+<rect width="205" height="19" fill="white" transform="translate(0 -1)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,56 @@
+{
+    "about": {
+      "title": "About me",
+      "date": "",
+      "chunkTitle": "",
+      "chunkSubtitle": "",
+      "chunkText":"Engineer with multiple years of work experience working in various fields and projects. Sociable, team oriented, eager to learn and improve.",
+      "chunkLink": "",
+      "locationText": ""
+    },
+    "contacts": {
+        "title": "Contacts",
+        "date": "Belgrade, Serbia",
+        "chunkTitle": "mil.zivkovic96@gmail.com",
+        "chunkSubtitle": "",
+        "chunkText":"(+381)60 5722-021",
+        "chunkLink": "https://milanweb.dev",
+        "locationText": ""
+      },
+      "educationMas": {
+        "title": "Education",
+        "date": "2020-2023",
+        "chunkTitle": "M.Sc. - MiT module (Mechanical engineering and informational technologies)",
+        "chunkSubtitle": "University of Belgrade - Faculty of Mechanical Engineering",
+        "chunkText":"",
+        "chunkLink": "https://www.mas.bg.ac.rs",
+        "locationText": "Belgrade"
+      },
+      "educationBS": {
+        "title": "",
+        "date": "2020-2023",
+        "chunkTitle": "B.Sc. - Mechanical Engineering",
+        "chunkSubtitle": "University of Belgrade - Faculty of Mechanical Engineering",
+        "chunkText":"",
+        "chunkLink": "https://www.mas.bg.ac.rs",
+        "locationText": "Belgrade"
+      },
+      "employment": {
+        "title": "",
+        "date": "",
+        "chunkTitle": "",
+        "chunkSubtitle": "",
+        "chunkText":"",
+        "chunkLink": "",
+        "locationText":""
+      },
+      "projects":{
+           "title":"",
+           "date":"",
+           "chunkTitle":"",
+           "chunkSubtitle":"",
+           "chunkText":"",
+           "chunkLink":"",
+           "locationText":""
+         }
+  }
